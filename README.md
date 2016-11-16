@@ -136,4 +136,4 @@ public List<AdMsg> getMsgListByPositionMode(int positionMode) {
     }
 ```
 
-以上代码的demo详见我[github](https://github.com/null123dzq/SqliteOpenHelperTest, SqliteOpenHelperTest);
+以上代码的demo详见我[github](https://github.com/null123dzq/SqliteOpenHelperTest).
